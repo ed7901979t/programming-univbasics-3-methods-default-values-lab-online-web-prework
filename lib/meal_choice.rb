@@ -6,3 +6,4 @@ def meal_choice(veg1, veg2, protein="mean")
   
 
 end
+meal_choice("tomoto", "onion", "fat")
